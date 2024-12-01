@@ -1,0 +1,6 @@
+{
+  "name": "bionl/multiple-fake pipeline",
+  "description": "A pipeline that simulates multiple processes, each taking 1 minute.",
+  "type": "object",
+  "definitions": {}
+}
