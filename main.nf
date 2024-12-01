@@ -9,7 +9,6 @@ workflow {
 }
 
 process fakeProcess1 {
-    container 'alpine:latest'
     echo true
 
     script:
@@ -20,7 +19,6 @@ process fakeProcess1 {
 }
 
 process fakeProcess2 {
-    container 'alpine:latest'
     echo true
 
     script:
@@ -31,7 +29,6 @@ process fakeProcess2 {
 }
 
 process fakeProcess3 {
-    container 'alpine:latest'
     echo true
 
     script:
